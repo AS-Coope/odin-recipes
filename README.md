@@ -2,7 +2,8 @@
 This is my attempt at the first project in [The Odin Project](https://www.theodinproject.com/): [Recipes](https://www.theodinproject.com/lessons/foundations-recipes). In my quest to learn web development, this stages itself as one of the first milestones.
 
 # Learning Outcomes
-At the end of this project, I will have:
+At the end of this project, I will have:  
+HTML:
 - created several web pages in html
 - made use of lists in html
 - used links to reference images and other webpages 
