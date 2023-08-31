@@ -9,9 +9,15 @@ h1 {
   font-weight: 600;
 }
 
-.container {
+.container.main {
+  text-align: center;
+}
+
+.container,
+.main{
+  display: block;
+  max-width: 600px;
   margin: 0 auto;
-  width: 80%;
   padding: 0px 5px 1px;
   background-color:white;
 }
